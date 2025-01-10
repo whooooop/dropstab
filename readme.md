@@ -2,7 +2,7 @@
 # **DropstabAPI**
 
 `DropstabAPI` is a TypeScript library for interacting with the **[Dropstab](https://dropstab.com)** API.  
-It provides a convenient interface for managing portfolios and analyzing on-chain data with integrations for **Ethereum** and **Solana**.
+It provides a convenient interface for managing portfolios and analyzing on-chain data.
 
 ---
 
